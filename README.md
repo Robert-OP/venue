@@ -1,5 +1,5 @@
 # The Venue - Static Web Project
 
-## React + MaterialUI
+## React + [Material UI](https://material-ui.com/)
 
-### Check it out here: https://robert-op.github.io/venue/
+### Check how it looks: https://robert-op.github.io/venue/
